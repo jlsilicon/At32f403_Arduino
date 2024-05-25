@@ -9,7 +9,9 @@ Use this in Boards Manager :
 
 https://raw.githubusercontent.com/WeActStudio/ArduinoCore-AT32F4/main/package_at32_index.json
 
+
 See:
+
 https://github.com/WeActStudio/ArduinoCore-AT32F4
 
 -
